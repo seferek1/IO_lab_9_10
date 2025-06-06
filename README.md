@@ -1,1 +1,1 @@
-# IO_lab_9_10 zmiana zmiana2
+# IO_lab_9_10 zmiana
